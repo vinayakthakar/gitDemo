@@ -1,0 +1,7 @@
+13:32:44.195 [main] INFO  E2E_Project.navigationMenu - Initialized the browser
+13:32:58.289 [main] INFO  E2E_Project.startBrowser - browser closed
+13:33:10.467 [main] INFO  E2E_Project.startBrowser - browser closed
+13:33:19.769 [main] INFO  E2E_Project.validateTitle - Title validated
+17:02:30.025 [main] INFO  E2E_Project.navigationMenu - Initialized the browser
+17:02:43.060 [main] INFO  E2E_Project.startBrowser - browser closed
+17:02:52.330 [main] INFO  E2E_Project.startBrowser - browser closed

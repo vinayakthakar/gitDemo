@@ -1,0 +1,7 @@
+12:04:31.187 [main] INFO  E2E_Project.startBrowser - browser closed
+12:20:58.733 [TestNG-tests-1] INFO  E2E_Project.navigationMenu - Initialized the browser
+12:21:10.971 [TestNG-tests-2] INFO  E2E_Project.startBrowser - browser closed
+12:21:22.307 [TestNG-tests-2] INFO  E2E_Project.startBrowser - browser closed
+15:51:49.267 [TestNG-tests-1] INFO  E2E_Project.navigationMenu - Initialized the browser
+15:52:01.168 [TestNG-tests-2] INFO  E2E_Project.startBrowser - browser closed
+15:52:12.087 [TestNG-tests-2] INFO  E2E_Project.startBrowser - browser closed
